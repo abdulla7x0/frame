@@ -1,0 +1,6 @@
+Aryan Sharma — Full Stack Developer
+
+Sheriyans Coding School — Full Stack Development Bootcamp
+Skills: HTML, CSS, JavaScript, React, Next.js, Tailwind, Node.js, Express, MongoDB, Supabase, Git
+
+Replace this placeholder with your real resume PDF.

@@ -1,0 +1,12 @@
+2025-05-15 16:16:49.684 [info] Started local extension host with pid 997.
+2025-05-15 16:16:49.748 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-05-15 16:16:50.066 [info] Started initializing default profile extensions in extensions installation folder. file:///home/abdullax080/.vscode/extensions
+2025-05-15 16:16:50.785 [info] ComputeTargetPlatform: linux-x64
+2025-05-15 16:16:50.981 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/abdullax080/.vscode/extensions
+2025-05-15 16:16:51.632 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-05-15 16:16:53.257 [info] [perf] Render performance baseline is 71ms
+2025-05-15 16:38:02.829 [info] Started local extension host with pid 2525.
+2025-05-15 16:38:03.008 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-05-15 16:38:03.361 [info] ComputeTargetPlatform: linux-x64
+2025-05-15 16:38:04.091 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-05-15 16:38:05.569 [info] [perf] Render performance baseline is 37ms
